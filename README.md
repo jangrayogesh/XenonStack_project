@@ -3,7 +3,7 @@
 
 #Guides
 
-pip  install django \n
+pip  install django 
 python manage.py makemigrations
 python manage.py migrate
 python manage.py createsuperuser  # setup db  admin site  
